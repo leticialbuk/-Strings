@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Strings\\Strings.csproj": {}
+    "C:\\Dev\\Strings\\InterpolacaoString\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Strings\\Strings.csproj": {
+    "C:\\Dev\\Strings\\InterpolacaoString\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Strings\\Strings.csproj",
+        "projectUniqueName": "C:\\Dev\\Strings\\InterpolacaoString\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\Dev\\Strings\\Strings.csproj",
+        "projectPath": "C:\\Dev\\Strings\\InterpolacaoString\\Strings.csproj",
         "packagesPath": "C:\\Users\\letic\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Strings\\obj\\",
+        "outputPath": "C:\\Dev\\Strings\\InterpolacaoString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\letic\\AppData\\Roaming\\NuGet\\NuGet.Config"
