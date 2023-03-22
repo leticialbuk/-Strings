@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var texto = "Este texto é um teste";
+            //Console.WriteLine(texto.CompareTo("Testando"));
+            //Console.WriteLine(texto.CompareTo("testando"));
+            Console.WriteLine(texto.Contains("teste"));
+            Console.WriteLine(texto.Contains("Teste"));
+            Console.WriteLine(texto.Contains("Teste", StringComparison.OrdinalIgnoreCase));
+        }
+    }
+}
